@@ -49,15 +49,15 @@ https://www.avg.com<br>
 https://www.avira.com<br>
 https://www.360totalsecurity.com<br>
 https://www.comodo.com<br>
+***
 **Open-source Antivirus Tools**
 <br>
-***
 https://www.clamav.net<br>
 https://github.com/Cisco-Talos/clamav<br>
 https://www.openantivirus.org<br>
+***
 **2. Online File Scanning and Malware Analysis Tools**
 <br>
-***
 https://www.virustotal.com<br>
 https://virusscan.jotti.org<br>
 https://www.metadefender.com<br>
