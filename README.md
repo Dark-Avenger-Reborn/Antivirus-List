@@ -1,4 +1,4 @@
-**1. Downloadable Antivirus Software**
+**Downloadable Antivirus Software**
 <br>
 <br>
 **Paid and Free Solutions**
@@ -56,7 +56,7 @@ https://www.clamav.net<br>
 https://github.com/Cisco-Talos/clamav<br>
 https://www.openantivirus.org<br>
 ***
-**2. Online File Scanning and Malware Analysis Tools**
+**Online File Scanning and Malware Analysis Tools**
 <br>
 https://www.virustotal.com<br>
 https://virusscan.jotti.org<br>
