@@ -1,68 +1,81 @@
-**Downloadable Antivirus Software**
-<br>
-<br>
-**Paid and Free Solutions**
-<br>
-***
-https://www.acronis.com<br>
-https://www.broadcom.com<br>
-https://www.checkpoint.com<br>
-https://www.cisco.com<br>
-https://www.crowdstrike.com<br>
-https://www.deepinstinct.com<br>
-https://www.drweb.com<br>
-https://www.elastic.co<br>
-https://www.escanav.com<br>
-https://www.fortinet.com<br>
-https://www.gdata.de<br>
-https://www.k7computing.com<br>
-https://www.microsoft.com<br>
-https://www.paloaltonetworks.com<br>
-https://www.rapid7.com<br>
-https://www.sangfor.com<br>
-https://www.senseon.io<br>
-https://www.sentinelone.com<br>
-https://www.seqrite.com<br>
-https://www.sparkcognition.com<br>
-https://www.trellix.com<br>
-https://www.vipre.com<br>
-https://www.vmware.com<br>
-https://www.watchguard.com<br>
-https://www.withsecure.com<br>
-https://www.xcitium.com<br>
-https://www.kaspersky.com<br>
-https://www.mcafee.com<br>
-https://www.norton.com<br>
-https://www.avast.com<br>
-https://www.bitdefender.com<br>
-https://www.trendmicro.com<br>
-https://www.eset.com<br>
-https://www.sophos.com<br>
-https://www.pandasecurity.com<br>
-https://www.cybereason.com<br>
-https://www.f-secure.com<br>
-https://www.cylance.com<br>
-https://www.emsisoft.com<br>
-https://www.webroot.com<br>
-https://www.zonealarm.com<br>
-https://www.avg.com<br>
-https://www.avira.com<br>
-https://www.360totalsecurity.com<br>
-https://www.comodo.com<br>
-***
-**Open-source Antivirus Tools**
-<br>
-https://www.clamav.net<br>
-https://github.com/Cisco-Talos/clamav<br>
-https://www.openantivirus.org<br>
-***
-**Online File Scanning and Malware Analysis Tools**
-<br>
-https://www.virustotal.com<br>
-https://virusscan.jotti.org<br>
-https://www.metadefender.com<br>
-https://www.kaspersky.com/virus-scanner<br>
-https://www.eicar.org<br>
-https://hybrid-analysis.com<br>
-https://nodistribute.com<br>
-https://scanner.pcrisk.com<br>
+### **Downloadable Antivirus Software**
+#### Paid and Free Solutions
+- https://www.intego.com  
+- https://www.surfshark.com/antivirus  
+- https://www.totalav.com  
+- https://www.secureage.com  
+- https://www.adaware.com  
+- https://www.pcmatic.com  
+- https://www.zonealarm.com  
+- https://www.ikarussecurity.com  
+
+#### **Online File Scanning and Malware Analysis Tools**
+- https://www.hybrid-analysis.com  
+- https://any.run  
+- https://malwares.com  
+- https://valkyrie.comodo.com  
+- https://www.filext.com/file-analyzer  
+
+---
+
+### **Downloadable Antivirus Software**
+#### Paid and Free Solutions
+- https://www.acronis.com  
+- https://www.broadcom.com  
+- https://www.checkpoint.com  
+- https://www.cisco.com  
+- https://www.crowdstrike.com  
+- https://www.deepinstinct.com  
+- https://www.drweb.com  
+- https://www.elastic.co  
+- https://www.escanav.com  
+- https://www.fortinet.com  
+- https://www.gdata.de  
+- https://www.k7computing.com  
+- https://www.microsoft.com  
+- https://www.paloaltonetworks.com  
+- https://www.rapid7.com  
+- https://www.sangfor.com  
+- https://www.senseon.io  
+- https://www.sentinelone.com  
+- https://www.seqrite.com  
+- https://www.sparkcognition.com  
+- https://www.trellix.com  
+- https://www.vipre.com  
+- https://www.vmware.com  
+- https://www.watchguard.com  
+- https://www.withsecure.com  
+- https://www.xcitium.com  
+- https://www.kaspersky.com  
+- https://www.mcafee.com  
+- https://www.norton.com  
+- https://www.avast.com  
+- https://www.bitdefender.com  
+- https://www.trendmicro.com  
+- https://www.eset.com  
+- https://www.sophos.com  
+- https://www.pandasecurity.com  
+- https://www.cybereason.com  
+- https://www.f-secure.com  
+- https://www.cylance.com  
+- https://www.emsisoft.com  
+- https://www.webroot.com  
+- https://www.avg.com  
+- https://www.avira.com  
+- https://www.360totalsecurity.com  
+- https://www.comodo.com  
+
+#### **Open-source Antivirus Tools**
+- https://www.clamav.net  
+- https://github.com/Cisco-Talos/clamav  
+- https://www.openantivirus.org  
+
+#### **Online File Scanning and Malware Analysis Tools**
+- https://www.virustotal.com  
+- https://virusscan.jotti.org  
+- https://www.metadefender.com  
+- https://www.kaspersky.com/virus-scanner  
+- https://www.eicar.org  
+- https://hybrid-analysis.com  
+- https://nodistribute.com  
+- https://scanner.pcrisk.com  
